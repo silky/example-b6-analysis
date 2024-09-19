@@ -39,4 +39,13 @@
         ];
       };
     });
+
+  nixConfig = {
+    extra-substituters = [
+      "https://diagonalworks.cachix.org"
+    ];
+    extra-trusted-public-keys = [
+      "diagonalworks.cachix.org-1:7U834B3foDCfa1EeV6xpyOz9JhdfUXj2yxRv0rAdYMk="
+    ];
+  };
 }
