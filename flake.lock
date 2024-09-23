@@ -11,11 +11,11 @@
         "unstable": "unstable"
       },
       "locked": {
-        "lastModified": 1726488270,
-        "narHash": "sha256-8tddU+dsPihWzwPUkyJrCgODTBqwBhav+/tg+M5ufYc=",
+        "lastModified": 1727072653,
+        "narHash": "sha256-LVmUbQBjC+z3/z+Cngxo8D5Unsl9Do7KmWHxfCLHtcA=",
         "owner": "silky",
         "repo": "diagonal-b6",
-        "rev": "d60a5176966b9b1b621c5446a06043e02e101278",
+        "rev": "4e14b01b3180707a748c712927687ccf740d2dd3",
         "type": "github"
       },
       "original": {
@@ -66,11 +66,11 @@
         "systems": "systems_3"
       },
       "locked": {
-        "lastModified": 1710146030,
-        "narHash": "sha256-SZ5L6eA7HJ/nmkzGG7/ISclqe6oZdOZTNoesiInkXPQ=",
+        "lastModified": 1726560853,
+        "narHash": "sha256-X6rJYSESBVr3hBoH0WbKE5KvhPU5bloyZ2L4K60/fPQ=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "b1d9ab70662946ef0850d488da1c9019f3a9752a",
+        "rev": "c1dfcf08411b08f6b8615f7d8971a2bfa81d5e8a",
         "type": "github"
       },
       "original": {
