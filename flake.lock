@@ -11,11 +11,11 @@
         "unstable": "unstable"
       },
       "locked": {
-        "lastModified": 1727367060,
-        "narHash": "sha256-nTYammkVMgJQCXJSNzDPtqev5q85W5GCaQ8Vod7vNdY=",
+        "lastModified": 1727777975,
+        "narHash": "sha256-R6yXOS/usPOmnGjxuanomGj5nC3VODR6ydGTUEMeTEU=",
         "owner": "silky",
         "repo": "diagonal-b6",
-        "rev": "6df2608f08a872eeb07a2006e861f63a3d78c75e",
+        "rev": "c30688e0fb7a42682be7d5222c003b54606f9bb9",
         "type": "github"
       },
       "original": {
